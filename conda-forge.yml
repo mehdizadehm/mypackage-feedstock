@@ -1,1 +1,5 @@
-{}
+github:
+    user_or_org: mehdizadehm
+channels:
+    targets:
+        - ["conda-forge", "main"]
