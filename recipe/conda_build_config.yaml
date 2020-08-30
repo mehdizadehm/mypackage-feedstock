@@ -1,4 +1,2 @@
-channel_sources:
-  - conda-forge,defaults
 channel_targets:
-  - conda-forge main
+  - meissam main
